@@ -1,3 +1,6 @@
 [submodule "zap"]
 	path = zap
 	url = https://gist.github.com/tonejito/c16666facf5da68584d6
+[submodule "ssh-key-gen-print"]
+	path = ssh-key-gen-print
+	url = https://gist.github.com/tonejito/9ae6fc6265a94c41d8bfa1e6e89b3e98
