@@ -7,3 +7,6 @@
 [submodule "get-users"]
 	path = get-users
 	url = https://gist.github.com/tonejito/369ac4cb3759bf0b3471be7034a74e99
+[submodule "useradd-batch"]
+	path = useradd-batch
+	url = https://gist.github.com/tonejito/279f7235d4c1865c23602325063d4f89
