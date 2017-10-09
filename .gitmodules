@@ -4,3 +4,6 @@
 [submodule "ssh-key-gen-print"]
 	path = ssh-key-gen-print
 	url = https://gist.github.com/tonejito/9ae6fc6265a94c41d8bfa1e6e89b3e98
+[submodule "get-users"]
+	path = get-users
+	url = https://gist.github.com/tonejito/369ac4cb3759bf0b3471be7034a74e99
