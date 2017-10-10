@@ -10,3 +10,6 @@
 [submodule "useradd-batch"]
 	path = useradd-batch
 	url = https://gist.github.com/tonejito/279f7235d4c1865c23602325063d4f89
+[submodule "show_tech-support"]
+	path = show_tech-support
+	url = https://gist.github.com/e3326973643b0e534445b3930c09cae4.git
