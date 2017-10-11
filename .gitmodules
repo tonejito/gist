@@ -13,3 +13,6 @@
 [submodule "show_tech-support"]
 	path = show_tech-support
 	url = https://gist.github.com/e3326973643b0e534445b3930c09cae4.git
+[submodule "rpm-db-query"]
+	path = rpm-db-query
+	url = https://gist.github.com/tonejito/869e07835740aa4c7e45
