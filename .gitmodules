@@ -19,3 +19,6 @@
 [submodule "dpkg-db-query"]
 	path = dpkg-db-query
 	url = https://gist.github.com/tonejito/c298dbda8ff5dbd8931cb0d9747a8fbc
+[submodule "sudoers-insults"]
+	path = sudoers-insults
+	url = https://gist.github.com/tonejito/235feb4f1d299fd82ad513289b4704ee
