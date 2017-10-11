@@ -16,3 +16,6 @@
 [submodule "rpm-db-query"]
 	path = rpm-db-query
 	url = https://gist.github.com/tonejito/869e07835740aa4c7e45
+[submodule "dpkg-db-query"]
+	path = dpkg-db-query
+	url = https://gist.github.com/tonejito/c298dbda8ff5dbd8931cb0d9747a8fbc
