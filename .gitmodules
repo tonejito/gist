@@ -25,3 +25,6 @@
 [submodule "httpd-deflector-shields"]
 	path = httpd-deflector-shields
 	url = https://gist.github.com/tonejito/4015668
+[submodule "display-httpd-config"]
+	path = display-httpd-config
+	url = https://gist.github.com/tonejito/6a3c64a1d49844a40a2f4c16dd24f423
