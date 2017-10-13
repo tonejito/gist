@@ -22,3 +22,6 @@
 [submodule "sudoers-insults"]
 	path = sudoers-insults
 	url = https://gist.github.com/tonejito/235feb4f1d299fd82ad513289b4704ee
+[submodule "httpd-deflector-shields"]
+	path = httpd-deflector-shields
+	url = https://gist.github.com/tonejito/4015668
