@@ -28,3 +28,6 @@
 [submodule "display-httpd-config"]
 	path = display-httpd-config
 	url = https://gist.github.com/tonejito/6a3c64a1d49844a40a2f4c16dd24f423
+[submodule "backup.sh"]
+	path = backup.sh
+	url = https://gist.github.com/tonejito/1349e8b740423d808f15
